@@ -1,0 +1,3 @@
+create database studentdb;
+use studentdb;
+create table student (ROLLNO varchar(10)not null, STUDNAME varchar(30), DEPT varchar(30), CITY varchar(30));
